@@ -9,10 +9,10 @@ const Slider = () => {
     return (
    <>
    <div className="carousel w-full">
-  <div id="item1" className="carousel-item w-full h-[450px]">
+  <div id="item1" className="carousel-item w-full h-[200px] lg:h-[450px]">
     <img src="https://img.freepik.com/free-photo/colorful-fruit-basket-showcases-healthy-fresh-variety-generated-by-ai_188544-13415.jpg" className="w-full" />
   </div> 
-  <div id="item2" className="carousel-item h-[450px] w-full">
+  <div id="item2" className="carousel-item h-[200px] lg:h-[450px] w-full">
     <img src="https://img.freepik.com/free-photo/fresh-fruits-arrangement_23-2148949747.jpg" className="w-full" />
   </div> 
 </div> 

@@ -19,7 +19,7 @@ const Navbar = () => {
         {links}
       </ul>
     </div>
-    <p className=' text-sm lg:textxl font-semibold lg:pr-2 pr-1'>Fruit Basket</p>
+    <p className=' text-sm lg:text-xl font-semibold lg:pr-2 pr-1'>Fruit Basket</p>
     <img className='h-8 w-8 lg:h-10 lg:w-10' src={logo} alt="" />
   </div>
   <div className="navbar-center hidden lg:flex">

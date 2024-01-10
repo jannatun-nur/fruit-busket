@@ -1,9 +1,12 @@
-
+import logo from '../../public/assets/image/logos.png'
 
 const Navbar = () => {
+    const links =<>
+    <li><button></button></li>
+    </>
     return (
         <div>
-          <div className="navbar bg-base-100">
+          <div className="navbar bg-rose-500 text-white">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -21,7 +24,8 @@ const Navbar = () => {
         <li><a>Item 3</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <p className='font-semibold pr-2'>Fruit Basket</p>
+    <img className='h-10 w-10' src={logo} alt="" />
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

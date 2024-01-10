@@ -1,10 +1,5 @@
 
-import slider1 from '../../public/assets/image/slider1.jpg'
-import slider2 from '../../public/assets/image/slider2.jpg'
 const Slider = () => {
-
-
-
 
     return (
    <>

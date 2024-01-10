@@ -9,18 +9,17 @@ const Slider = () => {
     return (
    <>
    <div className="carousel w-full">
-  <div id="item1" className="carousel-item w-full">
-    <img src={slider1} className="w-full" />
+  <div id="item1" className="carousel-item w-full h-[450px]">
+    <img src="https://img.freepik.com/free-photo/colorful-fruit-basket-showcases-healthy-fresh-variety-generated-by-ai_188544-13415.jpg" className="w-full" />
   </div> 
-  <div id="item2" className="carousel-item w-full">
-    <img src="https://daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.jpg" className="w-full" />
+  <div id="item2" className="carousel-item h-[450px] w-full">
+    <img src="https://img.freepik.com/free-photo/fresh-fruits-arrangement_23-2148949747.jpg" className="w-full" />
   </div> 
 </div> 
-<div className="flex justify-center w-full py-2 gap-2">
-  <a href="#item1" className="btn btn-xs">1</a> 
-  <a href="#item2" className="btn btn-xs">2</a> 
-  <a href="#item3" className="btn btn-xs">3</a> 
-  <a href="#item4" className="btn btn-xs">4</a>
+<div className="flex justify-center w-full gap-2">
+  <a href="#item1" className=" btn-xs bg-rose-500 text-white rounded-lg">01</a> 
+  <a href="#item2" className="btn-xs bg-rose-500 text-white rounded-lg">02</a> 
+
 </div>
    </>
     );

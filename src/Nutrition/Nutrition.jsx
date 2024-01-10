@@ -15,6 +15,9 @@ const Nutrition = () => {
     
     return (
         <div>
+           <div className="mx-auto w-2/9 lg:w-3/12 mt-3 lg:mt-6">
+           <p className="px-2 py-1 text-sm lg:px-4 lg:py-4 lg:text-2xl bg-rose-500 text-white">Nutrition Information</p>
+           </div>
             <div>
                 {
                     vitamin.map( vitamins =><Card key={vitamins._id} vitamins={vitamins}></Card>)

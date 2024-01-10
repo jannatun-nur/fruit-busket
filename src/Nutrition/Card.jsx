@@ -1,6 +1,7 @@
 
 
-const Card = () => {
+const Card = ( {vitamins}) => {
+    
     return (
         <div>
             

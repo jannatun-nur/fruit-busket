@@ -1,5 +1,6 @@
 
 import './App.css'
+import Courier from './Courier/Courier'
 import Navbar from './Navbar/Navbar'
 import Nutrition from './Nutrition/Nutrition'
 import Order from './Order/Order'
@@ -14,6 +15,7 @@ function App() {
       <Slider/>
       <Nutrition/>
       <Order/>
+      <Courier/>
     </div>
   )
 }

@@ -1,34 +1,36 @@
 [
     {
         
-          "image": "https://example.com/product-image.jpg",
-          "name": "VitaBoost Pro",
+          "image": "https://i.ibb.co/YBYH5LB/mango.png",
+          "name": "Mango",
+          "vitamin": "Vitamin A",
+          "description": "Mangos are high in vitamins, particularly vitamin C. A one-cup serving provides 66% of your daily value. You'll also benefit from a healthy dose of vitamin A (11%), vitamin B6 (11%), and smaller amounts of vitamin E, vitamin K, thiamin, riboflavin, folate, niacin, and pantothenic acid.One cup of raw mango pieces (165g) provides 99 calories, 91% of which come from carbs, 5% from protein, and 5% from fat, rounding up."
+        
+      },
+      {
+        
+          "image": "https://i.ibb.co/9N33bwQ/grape.png",
+          "name": "Grape",
+          "vitamin": "Vitamin B",
+          "description": "Grapes are a sweet, low-fat, and low-calorie treat. If you are trying to reduce your intake of processed foods or added sugars, grapes can be a good substitute for snacks like cookies and candy. Most of the health benefits of grapes come from the vitamins they contain. Grapes are a nearly fat-free food, providing far less than 1 gram per serving."
+        
+      },
+      {
+        
+          "image": "https://i.ibb.co/8rnHbR3/banana.png",
+          "name": "Strawberry",
           "vitamin": "Vitamin C",
-          "description": "Experience the power of VitaBoost Pro, a revolutionary supplement rich in Vitamin C. This daily dose of goodness supports a healthy immune system, boosts energy levels, and promotes radiant skin. Packed with natural ingredients, VitaBoost Pro is your key to a vibrant and active lifestyle."
+          "description": "Strawberries are very healthy, containing many antioxidants and vitamins. They are also low in calories, containing only about 32 calories per half a cup.They’re an excellent source of vitamin C and manganese and also contain decent amounts of folate (vitamin B9) and potassium.Strawberries mainly consist of water (91%) and carbohydrates (7.7%). They contain only minor amounts of fat (0.3%) and protein (0.7%)."
+
+          
         
       },
       {
         
           "image": "https://example.com/product-image.jpg",
-          "name": "VitaBoost Pro",
-          "vitamin": "Vitamin C",
-          "description": "Experience the power of VitaBoost Pro, a revolutionary supplement rich in Vitamin C. This daily dose of goodness supports a healthy immune system, boosts energy levels, and promotes radiant skin. Packed with natural ingredients, VitaBoost Pro is your key to a vibrant and active lifestyle."
-        
-      },
-      {
-        
-          "image": "https://example.com/product-image.jpg",
-          "name": "VitaBoost Pro",
-          "vitamin": "Vitamin C",
-          "description": "Experience the power of VitaBoost Pro, a revolutionary supplement rich in Vitamin C. This daily dose of goodness supports a healthy immune system, boosts energy levels, and promotes radiant skin. Packed with natural ingredients, VitaBoost Pro is your key to a vibrant and active lifestyle."
-        
-      },
-      {
-        
-          "image": "https://example.com/product-image.jpg",
-          "name": "VitaBoost Pro",
-          "vitamin": "Vitamin C",
-          "description": "Experience the power of VitaBoost Pro, a revolutionary supplement rich in Vitamin C. This daily dose of goodness supports a healthy immune system, boosts energy levels, and promotes radiant skin. Packed with natural ingredients, VitaBoost Pro is your key to a vibrant and active lifestyle."
+          "name": "Banana",
+          "vitamin": "Vitamin D",
+          "description": "Bananas are among the most important food crops on the planet.Bananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients.Bananas are mainly composed of carbs. Unripe bananas may contain decent amounts of resistant starch, which functions like fiber, aiding your gut and promoting healthy blood sugar levels."
         
       }
 ]

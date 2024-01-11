@@ -1,8 +1,16 @@
-import { FaStar } from "react-icons/fa";
-import { FaRegStarHalfStroke } from "react-icons/fa6";
+import { useState } from 'react';
+import { FaStar } from 'react-icons/fa';
+import { FaRegStarHalfStroke } from 'react-icons/fa6';
+import Modal from './Modal';
 
 const BuyCard = ({ buys }) => {
   const { image, name, price, rating, button } = buys;
+  const [showModal, setShowModal] = useState(false);
+
+  const toggleModal = () => {
+    setShowModal(!showModal);
+  };
+
   return (
     <div>
       <section className="h-64 w-56 bg-white border border-rose-600 rounded-lg">
@@ -16,9 +24,14 @@ const BuyCard = ({ buys }) => {
           <FaStar />
           <FaRegStarHalfStroke />
         </p>
-        <button className="px-2 py-1 rounded-lg text-white bg-rose-600 mt-2">
+        <label
+          htmlFor="my_modal_6"
+          className="px-2 py-1 rounded-lg text-white bg-rose-600 mt-2"
+          onClick={toggleModal}
+        >
           {button}
-        </button>
+        </label>
+        <Modal buys={buys} showModal={showModal} toggleModal={toggleModal} />
       </section>
     </div>
   );

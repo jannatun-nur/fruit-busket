@@ -1,11 +1,10 @@
 
 import './App.css'
+import Buy from './Buy/Buy'
 import Courier from './Courier/Courier'
 import Footer from './Footer/Footer'
 import Navbar from './Navbar/Navbar'
 import Nutritions from './Nutritions/Nutritions'
-
-import Order from './Order/Order'
 import Rating from './Rating/Rating'
 import Slider from './Slider/Slider'
 
@@ -17,7 +16,7 @@ function App() {
       <Navbar/>
       <Slider/>
      <Nutritions/>
-      <Order/>
+       <Buy/>
       <Courier/>
       <Rating/>
       <Footer/>

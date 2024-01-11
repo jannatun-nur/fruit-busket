@@ -1,6 +1,7 @@
 
 import './App.css'
 import Courier from './Courier/Courier'
+import Footer from './Footer/Footer'
 import Navbar from './Navbar/Navbar'
 import Nutrition from './Nutrition/Nutrition'
 import Order from './Order/Order'
@@ -18,6 +19,7 @@ function App() {
       <Order/>
       <Courier/>
       <Rating/>
+      <Footer/>
     </div>
   )
 }

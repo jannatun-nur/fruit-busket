@@ -1,36 +1,36 @@
 [
    {
-    "image": "https://example.com/product-image.jpg",
-    "name": "Example Product",
-    "price": "$19.99",
+    "image": "https://i.ibb.co/98XgFPq/dragon.jpg",
+    "name": "Dragon",
+    "price": "$60 - $80",
     "rating": 4.5,
     "button": " Buy Now"
    },
    {
-    "image": "https://example.com/product-image.jpg",
-    "name": "Example Product",
-    "price": "$19.99",
+    "image": "https://i.ibb.co/9VM1cr3/guava.jpg",
+    "name": "Guava",
+    "price": "$20 - $40",
     "rating": 4.5,
     "button": " Buy Now"
    },
    {
-    "image": "https://example.com/product-image.jpg",
-    "name": "Example Product",
-    "price": "$19.99",
+    "image": "https://i.ibb.co/Z8HpJMb/apple.jpg",
+    "name": "Apple",
+    "price": "$30 - $40",
     "rating": 4.5,
     "button": " Buy Now"
    },
    {
-    "image": "https://example.com/product-image.jpg",
-    "name": "Example Product",
-    "price": "$19.99",
+    "image": "https://i.ibb.co/cr7SpT4/pro.jpg",
+    "name": "Promegrante",
+    "price": "$50 - $70",
     "rating": 4.5,
     "button": " Buy Now"
    },
    {
-    "image": "https://example.com/product-image.jpg",
-    "name": "Example Product",
-    "price": "$19.99",
+    "image": "https://i.ibb.co/TH97rYW/mango1.jpg",
+    "name": "Mango",
+    "price": "$45 - $60",
     "rating": 4.5,
     "button": " Buy Now"
    }

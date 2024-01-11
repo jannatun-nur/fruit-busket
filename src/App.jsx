@@ -4,6 +4,7 @@ import Courier from './Courier/Courier'
 import Navbar from './Navbar/Navbar'
 import Nutrition from './Nutrition/Nutrition'
 import Order from './Order/Order'
+import Rating from './Rating/Rating'
 import Slider from './Slider/Slider'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Nutrition/>
       <Order/>
       <Courier/>
+      <Rating/>
     </div>
   )
 }

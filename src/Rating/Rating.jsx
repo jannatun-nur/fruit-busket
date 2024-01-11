@@ -4,8 +4,9 @@ import { FaRegStarHalfStroke } from "react-icons/fa6";
 const Rating = () => {
   return (
     <div>
-      <div className="">
-        <section className="h-64 w-56 bg-white shadow-lg rounded-lg">
+        <p className="py-6 font-bold text-gray-800 text-2xl">What's our cutomers says</p>
+      <div className="flex justify-between">
+        <section className="h-64 w-56 bg-white shadow shadow-slate-400 rounded-lg">
           <img
             className="lg:h-20 lg:w-20 ml-16 rounded-full"
             src="https://i.ibb.co/TkgGYVK/rodsi.jpg"
@@ -26,7 +27,7 @@ const Rating = () => {
           </p>
           
         </section>
-        <section className="h-64 w-56 bg-white shadow-lg rounded-lg">
+        <section className="h-64 w-56 bg-white shadow shadow-slate-400 rounded-lg">
           <img
             className="lg:h-20 lg:w-20 ml-16 rounded-full"
             src="https://i.ibb.co/343DDx4/sahi.jpg"
@@ -47,7 +48,7 @@ const Rating = () => {
           </p>
           
         </section>
-        <section className="h-64 w-56 bg-whiteshadow-lg rounded-lg">
+        <section className="h-64 w-56 bg-white shadow shadow-slate-400 rounded-lg">
           <img
             className="lg:h-20 lg:w-20 ml-16 rounded-full"
             src="https://i.ibb.co/JptG2D0/mahiee.jpg"
@@ -69,7 +70,7 @@ const Rating = () => {
           </p>
           
         </section>
-        <section className="h-64 w-56 bg-white shadow-lg rounded-lg">
+        <section className="h-64 w-56 bg-white shadow shadow-slate-400 rounded-lg">
           <img
             className="lg:h-20 lg:w-20 ml-16 rounded-full"
             src="https://i.ibb.co/xH54LnP/steny.jpg"

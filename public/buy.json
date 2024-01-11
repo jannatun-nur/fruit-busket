@@ -1,0 +1,37 @@
+[
+   {
+    "image": "https://example.com/product-image.jpg",
+    "name": "Example Product",
+    "price": "$19.99",
+    "rating": 4.5,
+    "button": " Buy Now"
+   },
+   {
+    "image": "https://example.com/product-image.jpg",
+    "name": "Example Product",
+    "price": "$19.99",
+    "rating": 4.5,
+    "button": " Buy Now"
+   },
+   {
+    "image": "https://example.com/product-image.jpg",
+    "name": "Example Product",
+    "price": "$19.99",
+    "rating": 4.5,
+    "button": " Buy Now"
+   },
+   {
+    "image": "https://example.com/product-image.jpg",
+    "name": "Example Product",
+    "price": "$19.99",
+    "rating": 4.5,
+    "button": " Buy Now"
+   },
+   {
+    "image": "https://example.com/product-image.jpg",
+    "name": "Example Product",
+    "price": "$19.99",
+    "rating": 4.5,
+    "button": " Buy Now"
+   }
+]

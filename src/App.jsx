@@ -3,7 +3,8 @@ import './App.css'
 import Courier from './Courier/Courier'
 import Footer from './Footer/Footer'
 import Navbar from './Navbar/Navbar'
-import Nutrition from './Nutrition/Nutrition'
+import Nutritions from './Nutritions/Nutritions'
+
 import Order from './Order/Order'
 import Rating from './Rating/Rating'
 import Slider from './Slider/Slider'
@@ -15,7 +16,7 @@ function App() {
     <div className='min-h-screen bg-white'>
       <Navbar/>
       <Slider/>
-      <Nutrition/>
+     <Nutritions/>
       <Order/>
       <Courier/>
       <Rating/>

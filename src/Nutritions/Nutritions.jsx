@@ -71,14 +71,14 @@ const Nutritions = () => {
       <div className="bg-yellow-300 flex justify-around lg:mt-6 rounded-lg shadow-xl">
         <div className="">
           <img
-            className="h-10 w-10 lg:h-32 lg:w-32 lg:mt-20 "
+            className="h-24 w-24 lg:h-32 lg:w-32 lg:mt-20 mt-28 "
             src="https://i.ibb.co/rcGTtJT/banana.png"
             alt="image"
           />
-          <p className="lg:text-2xl font-bold text-gray-800">Banana</p>
-          <p className="lg:text-2xl font-bold text-gray-800">vitamin D</p>
+          <p className=" text-sm  lg:text-2xl font-bold text-gray-800">Banana</p>
+          <p className=" text-sm  lg:text-2xl font-bold text-gray-800">vitamin D</p>
         </div>
-        <div className="w-1/2">
+        <div className="  w-1/2 lg:w-1/2">
           <p className="lg:text-xl text-gray-800">
             Bananas are among the most important food crops on the
             planet.Bananas are a healthy source of fiber, potassium, vitamin B6,

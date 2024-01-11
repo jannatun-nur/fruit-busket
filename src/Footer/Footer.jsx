@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer className="footer items-center p-4 bg-neutral text-neutral-content">
         <aside className="items-center grid-flow-col">
-          <img className='lg:h-16 lg:w-16' src={logo} alt="" />
+          <img className='h-10 w-10 lg:h-16 lg:w-16' src={logo} alt="" />
           <p className='lg:text-xl text-white font-seibold'>Fruit Basket</p>
         </aside>
         <nav className="grid-flow-col gap-4 md:place-self-center text-white md:justify-self-end">

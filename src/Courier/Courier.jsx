@@ -1,10 +1,10 @@
 const Courier = () => {
   return (
-    <div className="min-h-screen bg-white pt-20">
+    <div className=" bg-white pt-20">
       <div className="flex justify-evenly">
         <section>
           <img
-            className="absolute w-3/12 lg:h-40 lg:w-56 "
+            className="absolute w-3/12 lg:h-40 lg:w-56 bg-ro"
             src="https://i.ibb.co/XDnC6Tn/deli2.jpg"
             alt=""
           />

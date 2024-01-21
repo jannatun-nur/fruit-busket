@@ -1,6 +1,6 @@
 const Courier = () => {
   return (
-    <div className=" bg-white pt-20">
+    <div className=" bg-whitept-20 mt-4">
       <div className="lg:flex lg:justify-evenly flex justify-between">
         <section className="mt-8 lg:mt-0">
           <img

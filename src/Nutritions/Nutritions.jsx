@@ -1,8 +1,8 @@
 const Nutritions = () => {
   return (
    <div>
-    <p className="lg:px-5 lg:py-2 rounded-lg bg-rose-500 text-white lg:mx-auto mx-10 lg:text-2xl w-9/12 lg:w-3/12 my-2 lg:mt-4">Basic Nutrition Information</p>
-     <div className="grid lg:grid-cols-2 gap-2">
+    <p className="lg:px-5 lg:py-2 md:px-2 md:py-2 rounded-lg bg-rose-500 text-white lg:mx-auto mx-10 lg:text-2xl w-9/12 lg:w-3/12 md:w-9/12 my-2 lg:mt-4">Basic Nutrition Information</p>
+     <div className="grid lg:grid-cols-2 gap-2 md:grid-cols-2">
       <div className="bg-amber-400 lg:flex lg:justify-around flex justify-between lg:mt-6 rounded-lg shadow-xl">
         <div className="">
           <img

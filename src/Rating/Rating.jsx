@@ -4,8 +4,8 @@ import { FaRegStarHalfStroke } from "react-icons/fa6";
 const Rating = () => {
   return (
     <div>
-        <p className="py-6 font-bold text-gray-800 text-2xl">What's our cutomers says</p>
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-2">
+        <p className="py-6 font-bold text-gray-800 text-xs md:text-xl lg:text-2xl">What's our cutomers says</p>
+      <div className="grid grid-cols-2 lg:grid-cols-4 md:grid-cols-3 gap-2 mb-2">
         <section className="lg:h-64 h-40 lg:w-56 w-36 bg-white shadow shadow-slate-400 rounded-lg">
           <img
             className="h-8 w-8 lg:h-20 lg:w-20 ml-14 lg:ml-16 rounded-full"

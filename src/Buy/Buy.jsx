@@ -15,8 +15,8 @@ const Buy = () => {
     return (
         <div>
 
-            <p className="lg:px-5 lg:py-2 rounded-lg bg-rose-500 text-white lg:mx-auto mx-10 lg:text-2xl w-9/12 lg:w-3/12 my-2 lg:my-10">Buy your favorite</p> 
-             <div className="grid grid-cols-2 lg:grid-cols-5 gap-2">
+            <p className="lg:px-5 lg:py-2 rounded-lg bg-rose-500 text-white lg:mx-auto md:mx-auto md:my-3 mx-10 lg:text-2xl w-9/12 md:w-5/12 lg:w-3/12 my-2 lg:my-10">Buy your favorite</p> 
+             <div className="grid grid-cols-2 lg:grid-cols-5 md:grid-cols-3 gap-2">
                 {
                     buy.map(buys=><BuyCard key={buys._id} buys={buys}></BuyCard>)
                 }
